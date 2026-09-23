@@ -33,3 +33,4 @@ resultat2 = spark.sql("""
     ORDER BY tot_h DESC
 """)
 resultat2.show()
+
